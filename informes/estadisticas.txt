@@ -1,0 +1,4 @@
+ESTADISTICAS DEL SISTEMAS
+
+Expedientes: 150
+Usuarios: 75
