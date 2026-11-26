@@ -3,4 +3,5 @@ PROCEDIMIENTOS
 1. Recepción de documentación
 2. Registro de expedientes
 3. Gestión Documental
+4. Digitalización de documentos a papel
 
